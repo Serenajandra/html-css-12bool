@@ -9,20 +9,28 @@
     color: white;
 }
 
+
+   
+
+
+.prova{
+    width: 95%;
+    height: 80%;
+    align-items: center;
+    justify-content: space-around;
+}
+
 .green{
     background-color: green;
-    height: 80%;
-    border: 1 px solid
+    height: 80%; 
+    border-color: rgb(82, 82, 231);   
 }
 
 .white{
     background-color: white;
     height: 30px;
 }
-.space-rnd{
-    justify-content: space-around;
 
-}
 .white-row>.col-12{
     height: 50%;
 }
